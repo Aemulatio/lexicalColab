@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@lexical/react": "^0.18.0",
+    "@lexical/yjs": "^0.18.0",
+    "lexical": "^0.18.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "y-websocket": "^2.0.4",
+    "yjs": "^13.6.20"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
