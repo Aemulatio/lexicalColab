@@ -29,7 +29,7 @@ export const EditorPage = () => {
     theme: {},
   };
 
-  const providerName = 'webrtc';
+  const providerName = '-webrtc';
 
   const providerFactory = useCallback(
     (id: string, yjsDocMap: Map<string, Y.Doc>) => {
