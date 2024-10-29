@@ -1,0 +1,15 @@
+.editor {
+    border: 1px solid #646cff;
+
+    padding: 30px;
+    min-width: 80%;
+    max-width: 80%;
+    min-height: 50%;
+}
+
+.root {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
